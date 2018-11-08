@@ -1,0 +1,1 @@
+adb shell screencap -p /sdcard/screencap.png && adb pull -p /sdcard/screencap.png
